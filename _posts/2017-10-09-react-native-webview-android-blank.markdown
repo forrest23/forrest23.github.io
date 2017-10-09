@@ -9,7 +9,7 @@ tag:
 star: false
 category: blog
 author: ganyin
-description: 很详细的学习视频，可以在优酷上在线观看
+description: React Native WebView在安卓中网页打开显示空白,在苹果上打开显示正常
 ---
 
 ## 目标:
