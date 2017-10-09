@@ -37,13 +37,7 @@ const jsForInjection = `
   el.style.height = '${Dimensions.get('window').height}px';
 `
 
-<WebView style={styles.webview_style}
-                 source={}
-                 startInLoadingState={true}
-                 domStorageEnabled={true}
-                 javaScriptEnabled={true}
-                 injectJavaScript={jsForInjection}
-        >
+<WebView source={} javaScriptEnabled={true} injectJavaScript={jsForInjection}>
 </WebView>
 {% endhighlight %}
 
