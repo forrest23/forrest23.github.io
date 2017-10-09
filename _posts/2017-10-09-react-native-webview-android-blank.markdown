@@ -38,7 +38,7 @@ const jsForInjection = `
 `
 
 <WebView style={styles.webview_style}
-                 source={{uri:DEFAULT_URL}}
+                 source={}
                  startInLoadingState={true}
                  domStorageEnabled={true}
                  javaScriptEnabled={true}
