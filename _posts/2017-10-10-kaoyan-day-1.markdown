@@ -1,0 +1,26 @@
+---
+title: "2017考研复习 Day 1"
+layout: post
+date: 2017-10-10 14:20
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- 考研
+star: false
+category: blog
+author: ganyin
+description: 说下第一天复习的情况！
+
+---
+
+## 英语:
+
+### 阅读理解
+
+做了一篇阅读理解，20个填空，只对了几个。/(ㄒoㄒ)/~~
+
+- [supervise]
+- [productivity]
+- [perplexing]
+
+---
