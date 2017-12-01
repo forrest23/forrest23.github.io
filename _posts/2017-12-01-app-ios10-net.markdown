@@ -19,7 +19,9 @@ description: 最近我们的APP在给用户安装试用的过程中,出现打开
 
 ## 找问题
 我们首先把问题手机拿回来，加上了代理监控了请求，发现打开APP到点击登录，都没有任何网络请求，像是APP没有网络权限。我们打开**使用无线局域网与蜂窝移动的应用里面**（如下图），确实没有找到我们的APP。
+
 ![Screenshot](http://pic.yupoo.com/forrest071/GW9CfjoJ/SkMVH.png)
+
 在一番百度和谷歌之后，发现IOS10确实存在BUG，就是新安装的APP在打开的时候，**不弹出下面这个允许提示使用数据的窗口**，所以APP就没有网络访问权限。
 ![Screenshot](http://pic.yupoo.com/forrest071/GW9CeXC5/dj0UY.png)
 ## 解决方法
