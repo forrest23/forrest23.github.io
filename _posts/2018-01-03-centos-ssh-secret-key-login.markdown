@@ -14,14 +14,12 @@ description: 腾讯云CentOS使用SSH密钥登陆。
 ---
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
 
-# 腾讯云CentOS使用SSH密钥登陆
-#code/SSH
-
 > 最近刚买了一台腾讯云的CentOS服务器，刚用一天就发现有人在暴力破解root密码，破解次数很高，已经有几千次。看了下腾讯云是支持SHH密钥登陆的，所以就折腾了下。  
-![](http://pic.yupoo.com/forrest071/6f4772ca/8a237d02.png)
 
 ## 服务器端设置
 腾讯云后台是可以直接设置SHH密钥，然后再绑定相应的服务器的。首先我们要先生成自己的密钥，这样更加安全点。
+
+![](http://pic.yupoo.com/forrest071/6f4772ca/8a237d02.png)
 
 ### 本地生成密钥
 `ssh-keygen -t rsa`
@@ -61,6 +59,7 @@ IdentityFile 是私钥文件的位置
 ## SHH密钥登录方法
 `ssh test`
 直接输入这个就能登陆了。 test 是你自己设置的Host名称。
+
 
 
 
