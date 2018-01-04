@@ -59,7 +59,7 @@ import { AnimatedCircularProgress } from 'react-native-circular-progress';
 在react-native 0.50.4版本中，backgroundColor设置transparent时会报错。暂时没找到原因。
 
 ## 完整示例
-完整代码：https://github.com/forrest23/ReactNativeComponents
+完整代码：[React Native 圆形进度条组件 | forrest23.github.io](http://codeismoney.com/react-native-circular-progress/)
 本次示例代码在 Component03文件夹中。
 
 ## 组件地址
@@ -68,4 +68,4 @@ import { AnimatedCircularProgress } from 'react-native-circular-progress';
 **微信不让跳转外链，可以点击查看原文来查看外链GitHub内容。**
 
 举手之劳关注我的微信公众号：**ReactNative开发圈**
-![Screenshot](http://pic.yupoo.com/forrest071/GW9CBRAi/medium.jpg)
+![](http://pic.yupoo.com/forrest071/GW9CBRAi/medium.gif)
