@@ -1,7 +1,7 @@
 ---
-title: "React Native 表格组件"
+title: "React Native 图片查看组件"
 layout: post
-date: 2018-02-08 16:56
+date: 2018-02-28 16:03
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -9,7 +9,7 @@ tag:
 star: false
 category: blog
 author: forrest23
-description: React Native 表格组件。
+description: React Native 图片查看组件。
 
 ---
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
