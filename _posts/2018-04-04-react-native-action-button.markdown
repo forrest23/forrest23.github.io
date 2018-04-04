@@ -1,5 +1,5 @@
 ---
-title: "React Native虚浮按钮组件"
+title: "React Native悬浮按钮组件"
 layout: post
 date: 2018-04-04 14:35
 image: /assets/images/markdown.jpg
@@ -9,7 +9,7 @@ tag:
 star: false
 category: blog
 author: forrest23
-description: React Native虚浮按钮组件
+description: React Native悬浮按钮组件
 
 ---
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
