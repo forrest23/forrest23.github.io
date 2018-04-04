@@ -14,8 +14,6 @@ description: React Native面试题。
 ---
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
 
-# React Native
-#ReactNaitve开发圈
 ## 1.React Native相对于原生的ios和Android有哪些优势？
 1.性能媲美原生APP
 2.使用JavaScript编码，只要学习这一种语言
