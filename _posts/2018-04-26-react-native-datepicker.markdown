@@ -12,8 +12,6 @@ author: forrest23
 description: React Native日期时间选择组件
 
 ---
-# React Native日期时间选择组件
-#ReactNaitve开发圈
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
 
 # 首先祝大家劳动节快乐，劳动最光荣！
@@ -48,17 +46,6 @@ npm install react-native-datepicker --save
           format="YYYY-MM-DD HH:mm"
           confirmBtnText="确定"
           cancelBtnText="取消"
-          customStyles={{
-            dateIcon: {
-              position: 'absolute',
-              left: 0,
-              top: 4,
-              marginLeft: 0
-            },
-            dateInput: {
-              marginLeft: 36
-            }
-          }}
           minuteInterval={10}
           onDateChange={(datetime) => {this.setState({datetime1: datetime});}}
         />
