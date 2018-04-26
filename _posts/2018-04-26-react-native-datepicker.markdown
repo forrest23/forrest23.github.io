@@ -12,6 +12,8 @@ author: forrest23
 description: React Native日期时间选择组件
 
 ---
+# React Native日期时间选择组件
+#ReactNaitve开发圈
 *本文原创首发于公众号：ReactNative开发圈，转载需注明出处。*
 
 # 首先祝大家劳动节快乐，劳动最光荣！
@@ -83,7 +85,6 @@ placeholder：占位符
 [GitHub - xgfe/react-native-datepicker: react native datePicker component for both Android and IOS, useing DatePikcerAndroid, TimePickerAndroid and DatePickerIOS](https://github.com/xgfe/react-native-datepicker)
 
 **微信不让跳转外链，可以点击查看原文来查看外链GitHub内容。**
-
 
 欢迎关注我的微信公众号：**ReactNative开发圈**
 ![](http://pic.yupoo.com/forrest071/GXPy4uDg/small.jpg)
