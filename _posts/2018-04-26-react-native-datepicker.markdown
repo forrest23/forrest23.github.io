@@ -84,5 +84,7 @@ placeholder：占位符
 
 **微信不让跳转外链，可以点击查看原文来查看外链GitHub内容。**
 
+
+
 欢迎关注我的微信公众号：**ReactNative开发圈**
 ![](http://pic.yupoo.com/forrest071/GXPy4uDg/small.jpg)
